@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 215 | 21 |
+| 216 | 21 |
 
 ---
 
@@ -24,9 +24,9 @@
 - [fft](#fft) (1)
 - [games](#games) (5)
 - [geometry](#geometry) (1)
-- [greedy](#greedy) (68)
+- [greedy](#greedy) (69)
 - [implementation](#implementation) (94)
-- [math](#math) (82)
+- [math](#math) (83)
 - [number theory](#number-theory) (15)
 - [probabilities](#probabilities) (1)
 - [schedules](#schedules) (2)
@@ -238,6 +238,7 @@
 | 1900A | [Cover in Water](https://codeforces.com/contest/1900/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Ctrl-Dev7/CodeForces-Solutions/blob/HEAD/1900/A%20-%20Cover%20in%20Water/solution.cpp) |
 | 1901A | [Line Trip](https://codeforces.com/contest/1901/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Ctrl-Dev7/CodeForces-Solutions/blob/HEAD/1901/A%20-%20Line%20Trip/solution.cpp) |
 | 1903A | [Halloumi Boxes](https://codeforces.com/contest/1903/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Ctrl-Dev7/CodeForces-Solutions/blob/HEAD/1903/A%20-%20Halloumi%20Boxes/solution.cpp) |
+| 1921C | [Sending Messages](https://codeforces.com/contest/1921/problem/C) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Ctrl-Dev7/CodeForces-Solutions/blob/HEAD/1921/C%20-%20Sending%20Messages/solution.cpp) |
 | 1927A | [Make it White](https://codeforces.com/contest/1927/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Ctrl-Dev7/CodeForces-Solutions/blob/HEAD/1927/A%20-%20Make%20it%20White/solution.cpp) |
 | 2126B | [No Casino in the Mountains](https://codeforces.com/contest/2126/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Ctrl-Dev7/CodeForces-Solutions/blob/HEAD/2126/B%20-%20No%20Casino%20in%20the%20Mountains/solution.cpp) |
 | 2127A | [Mix Mex Max](https://codeforces.com/contest/2127/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Ctrl-Dev7/CodeForces-Solutions/blob/HEAD/2127/A%20-%20Mix%20Mex%20Max/solution.cpp) |
@@ -419,6 +420,7 @@
 | 1883C | [Raspberries](https://codeforces.com/contest/1883/problem/C) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Ctrl-Dev7/CodeForces-Solutions/blob/HEAD/1883/C%20-%20Raspberries/solution.cpp) |
 | 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Ctrl-Dev7/CodeForces-Solutions/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.cpp) |
 | 1901A | [Line Trip](https://codeforces.com/contest/1901/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Ctrl-Dev7/CodeForces-Solutions/blob/HEAD/1901/A%20-%20Line%20Trip/solution.cpp) |
+| 1921C | [Sending Messages](https://codeforces.com/contest/1921/problem/C) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Ctrl-Dev7/CodeForces-Solutions/blob/HEAD/1921/C%20-%20Sending%20Messages/solution.cpp) |
 | 1977A | [Little Nikita](https://codeforces.com/contest/1977/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Ctrl-Dev7/CodeForces-Solutions/blob/HEAD/1977/A%20-%20Little%20Nikita/solution.cpp) |
 | 1999A | [A+B Again?](https://codeforces.com/contest/1999/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Ctrl-Dev7/CodeForces-Solutions/blob/HEAD/1999/A%20-%20A%2BB%20Again%3F/solution.cpp) |
 | 2044A | [Easy Problem](https://codeforces.com/contest/2044/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Ctrl-Dev7/CodeForces-Solutions/blob/HEAD/2044/A%20-%20Easy%20Problem/solution.cpp) |
