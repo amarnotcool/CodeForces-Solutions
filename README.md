@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 230 | 22 |
+| 231 | 22 |
 
 ---
 
@@ -26,7 +26,7 @@
 - [geometry](#geometry) (1)
 - [greedy](#greedy) (74)
 - [hashing](#hashing) (2)
-- [implementation](#implementation) (100)
+- [implementation](#implementation) (101)
 - [math](#math) (87)
 - [number theory](#number-theory) (16)
 - [probabilities](#probabilities) (1)
@@ -313,6 +313,7 @@
 | 431A | [Black Square](https://codeforces.com/contest/431/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Ctrl-Dev7/CodeForces-Solutions/blob/HEAD/431/A%20-%20Black%20Square/solution.cpp) |
 | 433B | [Kuriyama Mirai's Stones](https://codeforces.com/contest/433/problem/B) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/Ctrl-Dev7/CodeForces-Solutions/blob/HEAD/433/B%20-%20Kuriyama%20Mirai's%20Stones/solution.cpp) |
 | 451A | [Game With Sticks](https://codeforces.com/contest/451/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Ctrl-Dev7/CodeForces-Solutions/blob/HEAD/451/A%20-%20Game%20With%20Sticks/solution.cpp) |
+| 459A | [Pashmak and Garden](https://codeforces.com/contest/459/problem/A) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/Ctrl-Dev7/CodeForces-Solutions/blob/HEAD/459/A%20-%20Pashmak%20and%20Garden/solution.cpp) |
 | 466A | [Cheap Travel](https://codeforces.com/contest/466/problem/A) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/Ctrl-Dev7/CodeForces-Solutions/blob/HEAD/466/A%20-%20Cheap%20Travel/solution.cpp) |
 | 467A | [George and Accommodation](https://codeforces.com/contest/467/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Ctrl-Dev7/CodeForces-Solutions/blob/HEAD/467/A%20-%20George%20and%20Accommodation/solution.cpp) |
 | 474A | [Keyboard](https://codeforces.com/contest/474/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Ctrl-Dev7/CodeForces-Solutions/blob/HEAD/474/A%20-%20Keyboard/solution.cpp) |
