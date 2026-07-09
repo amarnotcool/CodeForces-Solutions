@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 234 | 22 |
+| 235 | 22 |
 
 ---
 
@@ -24,9 +24,9 @@
 - [fft](#fft) (1)
 - [games](#games) (5)
 - [geometry](#geometry) (1)
-- [greedy](#greedy) (75)
+- [greedy](#greedy) (76)
 - [hashing](#hashing) (2)
-- [implementation](#implementation) (103)
+- [implementation](#implementation) (104)
 - [math](#math) (89)
 - [number theory](#number-theory) (17)
 - [probabilities](#probabilities) (1)
@@ -209,6 +209,7 @@
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Ctrl-Dev7/CodeForces-Solutions/blob/HEAD/231/A%20-%20Team/solution.cpp) |
 | 320A | [Magic Numbers](https://codeforces.com/contest/320/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Ctrl-Dev7/CodeForces-Solutions/blob/HEAD/320/A%20-%20Magic%20Numbers/solution.cpp) |
 | 337A | [Puzzles](https://codeforces.com/contest/337/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Ctrl-Dev7/CodeForces-Solutions/blob/HEAD/337/A%20-%20Puzzles/solution.cpp) |
+| 349A | [Cinema Line](https://codeforces.com/contest/349/problem/A) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/Ctrl-Dev7/CodeForces-Solutions/blob/HEAD/349/A%20-%20Cinema%20Line/solution.cpp) |
 | 405A | [Gravity Flip](https://codeforces.com/contest/405/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Ctrl-Dev7/CodeForces-Solutions/blob/HEAD/405/A%20-%20Gravity%20Flip/solution.cpp) |
 | 514A | [Chewbaсca and Number](https://codeforces.com/contest/514/problem/A) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/Ctrl-Dev7/CodeForces-Solutions/blob/HEAD/514/A%20-%20Chewba%D1%81ca%20and%20Number/solution.cpp) |
 | 556A | [Case of the Zeros and Ones](https://codeforces.com/contest/556/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Ctrl-Dev7/CodeForces-Solutions/blob/HEAD/556/A%20-%20Case%20of%20the%20Zeros%20and%20Ones/solution.cpp) |
@@ -312,6 +313,7 @@
 | 327A | [Flipping Game](https://codeforces.com/contest/327/problem/A) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/Ctrl-Dev7/CodeForces-Solutions/blob/HEAD/327/A%20-%20Flipping%20Game/solution.cpp) |
 | 339B | [Xenia and Ringroad](https://codeforces.com/contest/339/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Ctrl-Dev7/CodeForces-Solutions/blob/HEAD/339/B%20-%20Xenia%20and%20Ringroad/solution.cpp) |
 | 344A | [Magnets](https://codeforces.com/contest/344/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Ctrl-Dev7/CodeForces-Solutions/blob/HEAD/344/A%20-%20Magnets/solution.cpp) |
+| 349A | [Cinema Line](https://codeforces.com/contest/349/problem/A) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/Ctrl-Dev7/CodeForces-Solutions/blob/HEAD/349/A%20-%20Cinema%20Line/solution.cpp) |
 | 379A | [New Year Candles](https://codeforces.com/contest/379/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Ctrl-Dev7/CodeForces-Solutions/blob/HEAD/379/A%20-%20New%20Year%20Candles/solution.cpp) |
 | 405A | [Gravity Flip](https://codeforces.com/contest/405/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Ctrl-Dev7/CodeForces-Solutions/blob/HEAD/405/A%20-%20Gravity%20Flip/solution.cpp) |
 | 427A | [Police Recruits](https://codeforces.com/contest/427/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Ctrl-Dev7/CodeForces-Solutions/blob/HEAD/427/A%20-%20Police%20Recruits/solution.cpp) |
