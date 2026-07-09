@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 232 | 22 |
+| 233 | 22 |
 
 ---
 
@@ -15,18 +15,18 @@
 - [*special](#special) (2)
 - [binary search](#binary-search) (7)
 - [bitmasks](#bitmasks) (2)
-- [brute force](#brute-force) (38)
+- [brute force](#brute-force) (39)
 - [combinatorics](#combinatorics) (2)
 - [constructive algorithms](#constructive-algorithms) (23)
 - [data structures](#data-structures) (4)
-- [dp](#dp) (10)
+- [dp](#dp) (11)
 - [expression parsing](#expression-parsing) (1)
 - [fft](#fft) (1)
 - [games](#games) (5)
 - [geometry](#geometry) (1)
 - [greedy](#greedy) (75)
 - [hashing](#hashing) (2)
-- [implementation](#implementation) (101)
+- [implementation](#implementation) (102)
 - [math](#math) (88)
 - [number theory](#number-theory) (17)
 - [probabilities](#probabilities) (1)
@@ -73,6 +73,7 @@
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Ctrl-Dev7/CodeForces-Solutions/blob/HEAD/231/A%20-%20Team/solution.cpp) |
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Ctrl-Dev7/CodeForces-Solutions/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.cpp) |
 | 320A | [Magic Numbers](https://codeforces.com/contest/320/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Ctrl-Dev7/CodeForces-Solutions/blob/HEAD/320/A%20-%20Magic%20Numbers/solution.cpp) |
+| 327A | [Flipping Game](https://codeforces.com/contest/327/problem/A) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/Ctrl-Dev7/CodeForces-Solutions/blob/HEAD/327/A%20-%20Flipping%20Game/solution.cpp) |
 | 363B | [Fence](https://codeforces.com/contest/363/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/Ctrl-Dev7/CodeForces-Solutions/blob/HEAD/363/B%20-%20Fence/solution.cpp) |
 | 479A | [Expression](https://codeforces.com/contest/479/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Ctrl-Dev7/CodeForces-Solutions/blob/HEAD/479/A%20-%20Expression/solution.cpp) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Ctrl-Dev7/CodeForces-Solutions/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.cpp) |
@@ -155,6 +156,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 313B | [Ilya and Queries](https://codeforces.com/contest/313/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/Ctrl-Dev7/CodeForces-Solutions/blob/HEAD/313/B%20-%20Ilya%20and%20Queries/solution.cpp) |
+| 327A | [Flipping Game](https://codeforces.com/contest/327/problem/A) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/Ctrl-Dev7/CodeForces-Solutions/blob/HEAD/327/A%20-%20Flipping%20Game/solution.cpp) |
 | 363B | [Fence](https://codeforces.com/contest/363/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/Ctrl-Dev7/CodeForces-Solutions/blob/HEAD/363/B%20-%20Fence/solution.cpp) |
 | 433B | [Kuriyama Mirai's Stones](https://codeforces.com/contest/433/problem/B) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/Ctrl-Dev7/CodeForces-Solutions/blob/HEAD/433/B%20-%20Kuriyama%20Mirai's%20Stones/solution.cpp) |
 | 580A | [Kefa and First Steps](https://codeforces.com/contest/580/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Ctrl-Dev7/CodeForces-Solutions/blob/HEAD/580/A%20-%20Kefa%20and%20First%20Steps/solution.cpp) |
@@ -306,6 +308,7 @@
 | 282A | [Bit++](https://codeforces.com/contest/282/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Ctrl-Dev7/CodeForces-Solutions/blob/HEAD/282/A%20-%20Bit%2B%2B/solution.cpp) |
 | 313A | [Ilya and Bank Account](https://codeforces.com/contest/313/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Ctrl-Dev7/CodeForces-Solutions/blob/HEAD/313/A%20-%20Ilya%20and%20Bank%20Account/solution.cpp) |
 | 313B | [Ilya and Queries](https://codeforces.com/contest/313/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/Ctrl-Dev7/CodeForces-Solutions/blob/HEAD/313/B%20-%20Ilya%20and%20Queries/solution.cpp) |
+| 327A | [Flipping Game](https://codeforces.com/contest/327/problem/A) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/Ctrl-Dev7/CodeForces-Solutions/blob/HEAD/327/A%20-%20Flipping%20Game/solution.cpp) |
 | 339B | [Xenia and Ringroad](https://codeforces.com/contest/339/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Ctrl-Dev7/CodeForces-Solutions/blob/HEAD/339/B%20-%20Xenia%20and%20Ringroad/solution.cpp) |
 | 344A | [Magnets](https://codeforces.com/contest/344/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Ctrl-Dev7/CodeForces-Solutions/blob/HEAD/344/A%20-%20Magnets/solution.cpp) |
 | 379A | [New Year Candles](https://codeforces.com/contest/379/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Ctrl-Dev7/CodeForces-Solutions/blob/HEAD/379/A%20-%20New%20Year%20Candles/solution.cpp) |
