@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 236 | 22 |
+| 237 | 22 |
 
 ---
 
@@ -26,7 +26,7 @@
 - [geometry](#geometry) (1)
 - [greedy](#greedy) (76)
 - [hashing](#hashing) (2)
-- [implementation](#implementation) (105)
+- [implementation](#implementation) (106)
 - [math](#math) (89)
 - [number theory](#number-theory) (17)
 - [probabilities](#probabilities) (1)
@@ -349,6 +349,7 @@
 | 1363A | [Odd Selection](https://codeforces.com/contest/1363/problem/A) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/Ctrl-Dev7/CodeForces-Solutions/blob/HEAD/1363/A%20-%20Odd%20Selection/solution.cpp) |
 | 1512A | [Spy Detected!](https://codeforces.com/contest/1512/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Ctrl-Dev7/CodeForces-Solutions/blob/HEAD/1512/A%20-%20Spy%20Detected!/solution.cpp) |
 | 1560A | [Dislike of Threes](https://codeforces.com/contest/1560/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Ctrl-Dev7/CodeForces-Solutions/blob/HEAD/1560/A%20-%20Dislike%20of%20Threes/solution.cpp) |
+| 1619C | [Wrong Addition](https://codeforces.com/contest/1619/problem/C) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/Ctrl-Dev7/CodeForces-Solutions/blob/HEAD/1619/C%20-%20Wrong%20Addition/solution.cpp) |
 | 1624B | [Make AP](https://codeforces.com/contest/1624/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Ctrl-Dev7/CodeForces-Solutions/blob/HEAD/1624/B%20-%20Make%20AP/solution.cpp) |
 | 1659A | [Red Versus Blue](https://codeforces.com/contest/1659/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Ctrl-Dev7/CodeForces-Solutions/blob/HEAD/1659/A%20-%20Red%20Versus%20Blue/solution.cpp) |
 | 1669A | [Division?](https://codeforces.com/contest/1669/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Ctrl-Dev7/CodeForces-Solutions/blob/HEAD/1669/A%20-%20Division%3F/solution.cpp) |
