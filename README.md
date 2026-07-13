@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 245 | 22 |
+| 246 | 22 |
 
 ---
 
@@ -26,12 +26,12 @@
 - [geometry](#geometry) (1)
 - [greedy](#greedy) (79)
 - [hashing](#hashing) (2)
-- [implementation](#implementation) (108)
+- [implementation](#implementation) (109)
 - [math](#math) (95)
 - [number theory](#number-theory) (17)
 - [probabilities](#probabilities) (1)
 - [schedules](#schedules) (2)
-- [sortings](#sortings) (32)
+- [sortings](#sortings) (33)
 - [strings](#strings) (31)
 - [two pointers](#two-pointers) (6)
 
@@ -296,6 +296,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 4C | [Registration System](https://codeforces.com/contest/4/problem/C) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/Ctrl-Dev7/CodeForces-Solutions/blob/HEAD/4/C%20-%20Registration%20System/solution.cpp) |
+| 27A | [Next Test](https://codeforces.com/contest/27/problem/A) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/Ctrl-Dev7/CodeForces-Solutions/blob/HEAD/27/A%20-%20Next%20Test/solution.cpp) |
 | 34A | [Reconnaissance 2](https://codeforces.com/contest/34/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Ctrl-Dev7/CodeForces-Solutions/blob/HEAD/34/A%20-%20Reconnaissance%202/solution.cpp) |
 | 41A | [Translation](https://codeforces.com/contest/41/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Ctrl-Dev7/CodeForces-Solutions/blob/HEAD/41/A%20-%20Translation/solution.cpp) |
 | 59A | [Word](https://codeforces.com/contest/59/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Ctrl-Dev7/CodeForces-Solutions/blob/HEAD/59/A%20-%20Word/solution.cpp) |
@@ -543,6 +544,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 27A | [Next Test](https://codeforces.com/contest/27/problem/A) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/Ctrl-Dev7/CodeForces-Solutions/blob/HEAD/27/A%20-%20Next%20Test/solution.cpp) |
 | 34B | [Sale](https://codeforces.com/contest/34/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Ctrl-Dev7/CodeForces-Solutions/blob/HEAD/34/B%20-%20Sale/solution.cpp) |
 | 149A | [Business trip](https://codeforces.com/contest/149/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Ctrl-Dev7/CodeForces-Solutions/blob/HEAD/149/A%20-%20Business%20trip/solution.cpp) |
 | 160A | [Twins](https://codeforces.com/contest/160/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Ctrl-Dev7/CodeForces-Solutions/blob/HEAD/160/A%20-%20Twins/solution.cpp) |
